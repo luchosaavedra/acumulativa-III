@@ -1,0 +1,22 @@
+.note {
+    padding: 1em;
+    margin: 1em;
+    border: 1px solid #ccc;
+    width: min-content;
+    position: relative;
+}
+
+.important {
+    background-color: red;
+}
+
+.flex {
+    display: flex
+}
+
+.boton-eliminar {
+    height: min-content;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+}
